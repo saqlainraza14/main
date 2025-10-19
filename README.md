@@ -186,25 +186,5 @@ docker compose down
 ## 🧑‍💻 Author
 
 **Saqlain Raza**  
-🚀 GitHub: [saqlainraza14](https://github.com/saqlainraza14)  
-💼 Email: *your_email@example.com*
+🚀 GitHub: [saqlainraza14](https://github.com/saqlainraza14)
 
----
-
-## 🏁 License
-
-This project is licensed under the **MIT License** — feel free to use, modify, and distribute.
-
----
-
-## 💬 Acknowledgements
-
-Thanks to:
-- **Qdrant** for vector database  
-- **FastAPI** for high-performance backend  
-- **Next.js** for frontend framework  
-- **OpenAI / Ollama** for LLM capabilities
-
----
-
-### ⭐ If you find this project helpful, don’t forget to give it a star on GitHub!
